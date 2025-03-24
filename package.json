@@ -1,23 +1,23 @@
 {
-  "name": "react-native-sortable-list",
-  "version": "0.0.25",
-  "description": "React Native Sortable List component",
+  "name": "react-native-sortable-list-expo51",
+  "version": "0.0.1",
+  "description": "React Native Sortable List component updated for Expo 51",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:gitim/react-native-sortable-list.git"
+    "url": "git@github.com:zach-hutz/react-native-sortable-list-Expo51.git"
   },
   "keywords": [
     "react-native",
     "ios",
     "react-component"
   ],
-  "author": "Tim Gibadullin <tim.gibadullin@gmail.com> (https://github.com/gitim)",
+  "author": "Zach Hutt <zphutton99@gmail.com> (https://github.com/zach-hutz)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gitim/react-native-sortable-list/issues"
+    "url": "https://github.com/zach-hutz/react-native-sortable-list-Expo51/issues"
   },
-  "homepage": "https://github.com/gitim/react-native-sortable-list",
+  "homepage": "https://github.com/zach-hutz/react-native-sortable-list-Expo51",
   "dependencies": {
   }
 }
