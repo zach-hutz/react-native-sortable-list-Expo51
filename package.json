@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/zach-hutz/react-native-sortable-list-Expo51",
   "dependencies": {
-    "deprecated-react-native-prop-types": "^5.0.0"
+    "deprecated-react-native-prop-types": "^5.0.0",
+    "prop-types": "^15.5.10"
   }
 }
