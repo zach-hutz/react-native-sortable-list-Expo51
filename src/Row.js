@@ -1,5 +1,4 @@
 import React, {Component, cloneElement} from 'react';
-import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import PropTypes from 'prop-types';
 import {Animated, PanResponder, StyleSheet} from 'react-native';
 import {shallowEqual} from './utils';
@@ -33,7 +32,6 @@ export default class Row extends Component {
   static defaultProps = {
     location: {x: 0, y: 0},
     activationTime: 200,
-    styles: {},
   };
 
   constructor(props) {
