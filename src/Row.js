@@ -33,6 +33,7 @@ export default class Row extends Component {
   static defaultProps = {
     location: {x: 0, y: 0},
     activationTime: 200,
+    styles: {},
   };
 
   constructor(props) {
